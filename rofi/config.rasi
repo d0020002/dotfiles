@@ -1,0 +1,14 @@
+/** Basic config file **/
+
+configuration {
+  show-icons:         true;
+  icon-theme:         "Papirus";
+  font: "Nerd Font 15";
+  hover-select: true;
+  me-select-entry: "";
+  me-accept-entry: [ MousePrimary, MouseSecondary, MouseDPrimary ];
+
+
+  modi: "window,drun,combi,run,filebrowser";
+  combi-modi: "drun,run";
+}

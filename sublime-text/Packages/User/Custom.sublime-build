@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "g++ ${file} && ./a.out < test && echo"
+}

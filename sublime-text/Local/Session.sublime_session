@@ -1,0 +1,1589 @@
+{
+	"folder_history":
+	[
+		"/home/deepak/bin",
+		"/home/deepak/bin/i3dragandstatic/i3",
+		"/home/deepak/bin/i3dragandstatic",
+		"/home/deepak/.config/polybar",
+		"/home/deepak/.config/polybar/forest",
+		"/home/deepak/.config/rofi/launchers/colorful",
+		"/home/deepak/.config/rofi/launchers/misc",
+		"/home/deepak/.config/rofi/launchers/ribbon",
+		"/home/deepak/xmllab",
+		"/home/deepak/CNDSA",
+		"/home/deepak/Downloads/Assignment  LAB 2",
+		"/home/deepak/CNDSA/Recursion",
+		"/home/deepak/dwm",
+		"/home/deepak/dwm-flexipatch",
+		"/home/deepak/dotfiles/i3",
+		"/home/deepak/Downloads/ASS2"
+	],
+	"last_version": 4121,
+	"last_window_id": 50,
+	"log_indexing": false,
+	"next_update_check": 1640068699,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 762.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"a",
+						"arr2"
+					],
+					[
+						"arr",
+						"arr1"
+					],
+					[
+						"ar",
+						"arr1"
+					],
+					[
+						"S",
+						"string"
+					],
+					[
+						"le",
+						"len"
+					],
+					[
+						"i",
+						"int"
+					],
+					[
+						"ro",
+						"rootData"
+					],
+					[
+						"sma",
+						"smmax"
+					],
+					[
+						"cu",
+						"curgrt"
+					],
+					[
+						"r",
+						"root"
+					],
+					[
+						"cur",
+						"curgrt"
+					],
+					[
+						"se",
+						"second"
+					],
+					[
+						"max",
+						"maxTree"
+					],
+					[
+						"sum",
+						"sumofcNode"
+					],
+					[
+						"nw",
+						"nwmcs"
+					],
+					[
+						"c",
+						"curSum"
+					],
+					[
+						"ma",
+						"maxSum"
+					],
+					[
+						"cou",
+						"countNodegrtx"
+					],
+					[
+						"co",
+						"countNodegrtx"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"n",
+						"nwld"
+					],
+					[
+						"cma",
+						"cmax"
+					],
+					[
+						"s",
+						"sumofnodes"
+					],
+					[
+						"chi",
+						"childData"
+					],
+					[
+						"ch",
+						"childofroot"
+					],
+					[
+						"roo",
+						"rootData"
+					],
+					[
+						"nod",
+						"node1"
+					],
+					[
+						"pus",
+						"push_back"
+					],
+					[
+						"st",
+						"stk"
+					],
+					[
+						"stoc",
+						"stock_span"
+					],
+					[
+						"so",
+						"Solution"
+					],
+					[
+						"str",
+						"strOpr"
+					],
+					[
+						"t",
+						"temp"
+					],
+					[
+						"p",
+						"printf"
+					],
+					[
+						"St",
+						"string"
+					],
+					[
+						"te",
+						"temp"
+					],
+					[
+						"N",
+						"NULL"
+					],
+					[
+						"cal",
+						"class"
+					],
+					[
+						"h",
+						"head"
+					],
+					[
+						"od",
+						"odtail"
+					],
+					[
+						"ev",
+						"evhead"
+					],
+					[
+						"e",
+						"evtail"
+					],
+					[
+						"rec",
+						"recrev"
+					],
+					[
+						"he",
+						"head"
+					],
+					[
+						"mer",
+						"mergesort"
+					],
+					[
+						"hea",
+						"head2"
+					],
+					[
+						"head",
+						"head2"
+					],
+					[
+						"me",
+						"mergeSorted"
+					],
+					[
+						"ta",
+						"tail2"
+					],
+					[
+						"id",
+						"idxofval"
+					],
+					[
+						"ne",
+						"newNode"
+					],
+					[
+						"in",
+						"insatidxrec"
+					],
+					[
+						"pr",
+						"printll"
+					],
+					[
+						"de",
+						"delatidx"
+					],
+					[
+						"d",
+						"data"
+					],
+					[
+						"pair",
+						"pairsum"
+					],
+					[
+						"u",
+						"unq"
+					],
+					[
+						"sr",
+						"string"
+					],
+					[
+						"o",
+						"output_sz"
+					],
+					[
+						"ou",
+						"output_sz"
+					],
+					[
+						"res",
+						"res2"
+					],
+					[
+						"pri",
+						"print_subset_array"
+					],
+					[
+						"siz",
+						"sizeofoutput"
+					],
+					[
+						"pa",
+						"part"
+					],
+					[
+						"m",
+						"main"
+					],
+					[
+						"strin",
+						"string.h"
+					],
+					[
+						"inser",
+						"insert_before"
+					],
+					[
+						"ins",
+						"insert_at_last"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"sode",
+						"Snippet: Do While Loop"
+					],
+					[
+						"stat",
+						"View: Toggle Status Bar"
+					],
+					[
+						"s",
+						"Set Syntax: C++"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"set synt c",
+						"Set Syntax: C++"
+					],
+					[
+						"sod",
+						"Set Syntax: Rd (R Documentation)"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Enumeration"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					],
+					[
+						"map",
+						"View: Toggle Minimap"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 136.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/deepak/bin/hotcornor.sh",
+				"/home/deepak/.config/i3/config",
+				"/home/deepak/bin/i3dragandstatic/i3/src/click.c",
+				"/home/deepak/bin/polybar_autohide/polybar_autohide.cpp",
+				"/home/deepak/.config/polybar/forest/modules.ini",
+				"/home/deepak/.config/polybar/forest/config.ini",
+				"/home/deepak/bin/polybarhide.sh",
+				"/home/deepak/bin/i3dragandstatic/PKGBUILD",
+				"/home/deepak/bin/i3dragandstatic/i3/src/workspace.c",
+				"/home/deepak/bin/i3dragandstatic/static.patch",
+				"/home/deepak/.config/skippy-xd/skippy-xd.rc",
+				"/home/deepak/.local/bin/i3l",
+				"/home/deepak/.local/bin/i3-layouts",
+				"/home/deepak/bin/i3drag/i3.PKGBUILD",
+				"/home/deepak/bin/i3drag/PKGBUILD",
+				"/home/deepak/.config/gtk-3.0/gtk.css",
+				"/home/deepak/Privacy and securit.txt",
+				"/home/deepak/p",
+				"/home/deepak/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/deepak/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/home/deepak/.local/share/gnome-shell/extensions/pop-shell@system76.com/stack.js",
+				"/home/deepak/.local/share/gnome-shell/extensions/pop-shell@system76.com/light.css",
+				"/home/deepak/.local/share/gnome-shell/extensions/pop-shell@system76.com/config.js",
+				"/home/deepak/.local/share/gnome-shell/extensions/pop-shell@system76.com/dark.css",
+				"/home/deepak/polybarhide.sh",
+				"/home/deepak/.config/polybar/forest/scripts/rofi/styles.rasi",
+				"/home/deepak/.config/polybar/forest/scripts/rofi/powermenu.rasi",
+				"/home/deepak/.config/polybar/forest/bars.ini",
+				"/etc/X11/xorg.conf.d/10-intel.conf",
+				"/home/deepak/.config/polybar/forest/scripts/updates.sh",
+				"/home/deepak/.config/polybar/forest/user_modules.ini",
+				"/home/deepak/.config/polybar/forest/scripts/rofi/networkmenu.rasi",
+				"/home/deepak/.config/networkmanager-dmenu/config.ini",
+				"/home/deepak/.config/polybar/forest/launch.sh",
+				"/home/deepak/bin/.config/i3/config",
+				"/home/deepak/.local/bin/i3expod.py",
+				"/home/deepak/bin/i3expo-ng/.config/i3/config",
+				"/home/deepak/.config/rofi/launchers/misc/row_dock.rasi",
+				"/home/deepak/.config/rofi/launchers/misc/launcher.sh",
+				"/home/deepak/.config/rofi/launchers/misc/column.rasi",
+				"/home/deepak/.config/rofi/config.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/.config/rofi/config.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/launcher.sh",
+				"/home/deepak/.config/rofi/launchers/colorful/style_11.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/style_8.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/style_9.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/style_12.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/style_10.rasi",
+				"/home/deepak/.config/rofi/launchers/misc/launchpad.rasi",
+				"/home/deepak/.config/rofi/launchers/misc/appdrawer.rasi",
+				"/home/deepak/.config/rofi/launchers/ribbon/ribbon_left_round.rasi",
+				"/home/deepak/.config/rofi/launchers/ribbon/launcher.sh",
+				"/home/deepak/.config/rofi/launchers/ribbon/styles/colors.rasi",
+				"/home/deepak/.config/rofi/launchers/ribbon/styles/colors",
+				"/home/deepak/.config/rofi/launchers/ribbon/styles/colors.",
+				"/home/deepak/.config/rofi/bin/.config/rofi/config.rasi",
+				"/home/deepak/.config/sublime-text/Packages/User/Plain text.sublime-settings",
+				"/home/deepak/.config/fish/config.fish",
+				"/home/deepak/.profile",
+				"/home/deepak/Downloads/f.txt",
+				"/home/deepak/.ssh/id_ed25519.pub",
+				"/home/deepak/sunkumar/fileInput.txt",
+				"/home/deepak/CNDSA/assign/revstreql.cpp",
+				"/home/deepak/CNDSA/assign/test",
+				"/home/deepak/CNDSA/assign/twoarray.cpp",
+				"/home/deepak/CNDSA/tree/test",
+				"/home/deepak/CNDSA/tree/tree.cpp",
+				"/home/deepak/CNDSA/assign/split_ll.c",
+				"/home/deepak/CNDSA/assign/balpar.c",
+				"/home/deepak/CNDSA/assign/pas.cpp",
+				"/home/deepak/.config/i3blocks/config",
+				"/home/deepak/.config/i3status/config",
+				"/home/deepak/Downloads/biblography.bib",
+				"/home/deepak/Downloads/main.tex",
+				"/home/deepak/CNDSA/stack_q/test",
+				"/home/deepak/CNDSA/stack_q/stock_span.cpp",
+				"/home/deepak/CNDSA/stack_q/nxtgrttoleft_idx.cpp",
+				"/home/deepak/CNDSA/stack_q/nxtgrttoleft.cpp",
+				"/home/deepak/CNDSA/stack_q/help.cpp",
+				"/home/deepak/.config/feh/buttons",
+				"/home/deepak/CNDSA/stack_q/h.cpp",
+				"/home/deepak/CNDSA/stack_q/redun_para.cpp",
+				"/home/deepak/CNDSA/stack_q/rev_queue.cpp",
+				"/home/deepak/CNDSA/stack_q/reverseStack.cpp",
+				"/home/deepak/CNDSA/stack_q/para.cpp",
+				"/home/deepak/CNDSA/linkedlist/test",
+				"/home/deepak/CNDSA/stack_q/stack.cpp",
+				"/home/deepak/stack.cpp",
+				"/home/deepak/CNDSA/linkedlist/lengthofll.cpp",
+				"/home/deepak/Downloads/xml/file.html",
+				"/home/deepak/Downloads/xml/q1.xml",
+				"/home/deepak/Downloads/xml/q2.js",
+				"/home/deepak/Downloads/a6q3.java",
+				"/home/deepak/CNDSA/Recursion/test",
+				"/home/deepak/CNDSA/linked list/lengthofll.cpp",
+				"/home/deepak/CNDSA/linked list/Node.cpp",
+				"/home/deepak/CNDSA/linked list/test",
+				"/home/deepak/.config/mpv/mpv.conf",
+				"/home/deepak/CNDSA/Recursion/split.cpp",
+				"/home/deepak/CNDSA/Recursion/maxprofit.cpp",
+				"/home/deepak/CNDSA/Recursion/rotatearray.cpp",
+				"/home/deepak/CNDSA/Recursion/triplesum.cpp",
+				"/home/deepak/CNDSA/Recursion/pairsum.cpp",
+				"/home/deepak/CNDSA/Recursion/pairstar.cpp",
+				"/home/deepak/CNDSA/Recursion/array_intersection.cpp",
+				"/home/deepak/CNDSA/Recursion/dup.cpp",
+				"/home/deepak/CNDSA/duplicate_array.cpp",
+				"/home/deepak/CNDSA/Recursion/unq.cpp",
+				"/home/deepak/CNDSA/unq.cpp",
+				"/home/deepak/CNDSA/Recursion/keypad.cpp",
+				"/home/deepak/CNDSA/Recursion/codes_string.cpp",
+				"/home/deepak/CNDSA/Recursion/print_subset_sum.cpp",
+				"/home/deepak/CNDSA/Recursion/sub_array_sum.cpp",
+				"/home/deepak/CNDSA/Recursion/subset_array.cpp",
+				"/home/deepak/CNDSA/Recursion/print_subset_array.cpp",
+				"/home/deepak/CNDSA/Recursion/printkeypad.cpp",
+				"/home/deepak/print_subset_array.cpp",
+				"/home/deepak/CNDSA/Recursion/binarysearch.cpp",
+				"/home/deepak/CNDSA/Recursion/staircase.cpp",
+				"/home/deepak/CNDSA/Recursion/checkab.cpp",
+				"/home/deepak/CNDSA/Recursion/quicksort.cpp",
+				"/home/deepak/CNDSA/Recursion/mergesort.cpp",
+				"/home/deepak/.config/i3blocks/bin/rofi-calendar",
+				"/home/deepak/.config/i3blocks/bin/calender",
+				"/home/deepak/.config/i3blocks/bin/gcalcli",
+				"/home/deepak/.conkyrc",
+				"/home/deepak/bin/gcal.sh",
+				"/home/deepak/dwm-flexipatch/patches.def.h"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 180.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Custom.sublime-build",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"tes",
+						"assign/test"
+					],
+					[
+						"test",
+						"assign/test"
+					],
+					[
+						"",
+						"tree/tree.cpp"
+					],
+					[
+						"stock",
+						"stack_q/stock_span.cpp"
+					],
+					[
+						"te",
+						"stack_q/test"
+					],
+					[
+						"para",
+						"stack_q/para.cpp"
+					],
+					[
+						"t",
+						"linkedlist/test"
+					],
+					[
+						"le",
+						"linkedlist/lengthofll.cpp"
+					],
+					[
+						"max",
+						"Recursion/maxprofit.cpp"
+					],
+					[
+						"trip",
+						"Recursion/triplesum.cpp"
+					],
+					[
+						"pai",
+						"Recursion/pairsum.cpp"
+					],
+					[
+						"arr",
+						"Recursion/array_intersection.cpp"
+					],
+					[
+						"key",
+						"keypad.cpp"
+					],
+					[
+						"cod",
+						"codes_string.cpp"
+					],
+					[
+						"ke",
+						"keypad.cpp"
+					],
+					[
+						"strin",
+						"codes_string.cpp"
+					],
+					[
+						"subs",
+						"sub_array_sum.cpp"
+					],
+					[
+						"sub",
+						"sub_array_sum.cpp"
+					],
+					[
+						"s",
+						"subset_array.cpp"
+					],
+					[
+						"arra",
+						"subset_array.cpp"
+					],
+					[
+						"pri",
+						"print_subset_array.cpp"
+					],
+					[
+						"sy",
+						"subset_array.cpp"
+					],
+					[
+						"prin",
+						"printkeypad.cpp"
+					],
+					[
+						"p",
+						"printkeypad.cpp"
+					],
+					[
+						"qui",
+						"quicksort.cpp"
+					],
+					[
+						"me",
+						"mergesort.cpp"
+					],
+					[
+						"dwm",
+						"dwm.c"
+					],
+					[
+						"mov",
+						"dwm-movestack-6.1.diff"
+					],
+					[
+						"dif",
+						"dwm-restartsig-20180523-6.2.diff"
+					],
+					[
+						"ts",
+						"Recursion/test"
+					],
+					[
+						"pi",
+						"Recursion/Replace_pi.cpp"
+					],
+					[
+						"re",
+						"Recursion/Replace_pi.cpp"
+					],
+					[
+						"tet",
+						"Recursion/test"
+					],
+					[
+						"la",
+						"Recursion/last_index.cpp"
+					],
+					[
+						"f",
+						"Recursion/first_index.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 154.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 679.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"a",
+						"arr2"
+					],
+					[
+						"arr",
+						"arr1"
+					],
+					[
+						"ar",
+						"arr1"
+					],
+					[
+						"S",
+						"string"
+					],
+					[
+						"le",
+						"len"
+					],
+					[
+						"i",
+						"int"
+					],
+					[
+						"ro",
+						"rootData"
+					],
+					[
+						"sma",
+						"smmax"
+					],
+					[
+						"cu",
+						"curgrt"
+					],
+					[
+						"r",
+						"root"
+					],
+					[
+						"cur",
+						"curgrt"
+					],
+					[
+						"se",
+						"second"
+					],
+					[
+						"max",
+						"maxTree"
+					],
+					[
+						"sum",
+						"sumofcNode"
+					],
+					[
+						"nw",
+						"nwmcs"
+					],
+					[
+						"c",
+						"curSum"
+					],
+					[
+						"ma",
+						"maxSum"
+					],
+					[
+						"cou",
+						"countNodegrtx"
+					],
+					[
+						"co",
+						"countNodegrtx"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"n",
+						"nwld"
+					],
+					[
+						"cma",
+						"cmax"
+					],
+					[
+						"s",
+						"sumofnodes"
+					],
+					[
+						"chi",
+						"childData"
+					],
+					[
+						"ch",
+						"childofroot"
+					],
+					[
+						"roo",
+						"rootData"
+					],
+					[
+						"nod",
+						"node1"
+					],
+					[
+						"pus",
+						"push_back"
+					],
+					[
+						"st",
+						"stk"
+					],
+					[
+						"stoc",
+						"stock_span"
+					],
+					[
+						"so",
+						"Solution"
+					],
+					[
+						"str",
+						"strOpr"
+					],
+					[
+						"t",
+						"temp"
+					],
+					[
+						"p",
+						"printf"
+					],
+					[
+						"St",
+						"string"
+					],
+					[
+						"te",
+						"temp"
+					],
+					[
+						"N",
+						"NULL"
+					],
+					[
+						"cal",
+						"class"
+					],
+					[
+						"h",
+						"head"
+					],
+					[
+						"od",
+						"odtail"
+					],
+					[
+						"ev",
+						"evhead"
+					],
+					[
+						"e",
+						"evtail"
+					],
+					[
+						"rec",
+						"recrev"
+					],
+					[
+						"he",
+						"head"
+					],
+					[
+						"mer",
+						"mergesort"
+					],
+					[
+						"hea",
+						"head2"
+					],
+					[
+						"head",
+						"head2"
+					],
+					[
+						"me",
+						"mergeSorted"
+					],
+					[
+						"ta",
+						"tail2"
+					],
+					[
+						"id",
+						"idxofval"
+					],
+					[
+						"ne",
+						"newNode"
+					],
+					[
+						"in",
+						"insatidxrec"
+					],
+					[
+						"pr",
+						"printll"
+					],
+					[
+						"de",
+						"delatidx"
+					],
+					[
+						"d",
+						"data"
+					],
+					[
+						"pair",
+						"pairsum"
+					],
+					[
+						"u",
+						"unq"
+					],
+					[
+						"sr",
+						"string"
+					],
+					[
+						"o",
+						"output_sz"
+					],
+					[
+						"ou",
+						"output_sz"
+					],
+					[
+						"res",
+						"res2"
+					],
+					[
+						"pri",
+						"print_subset_array"
+					],
+					[
+						"siz",
+						"sizeofoutput"
+					],
+					[
+						"pa",
+						"part"
+					],
+					[
+						"m",
+						"main"
+					],
+					[
+						"strin",
+						"string.h"
+					],
+					[
+						"inser",
+						"insert_before"
+					],
+					[
+						"ins",
+						"insert_at_last"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"sode",
+						"Snippet: Do While Loop"
+					],
+					[
+						"stat",
+						"View: Toggle Status Bar"
+					],
+					[
+						"s",
+						"Set Syntax: C++"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"set synt c",
+						"Set Syntax: C++"
+					],
+					[
+						"sod",
+						"Set Syntax: Rd (R Documentation)"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Enumeration"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					],
+					[
+						"map",
+						"View: Toggle Minimap"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 136.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/deepak/bin"
+			],
+			"file_history":
+			[
+				"/home/deepak/bin/hotcornor.sh",
+				"/home/deepak/.config/i3/config",
+				"/home/deepak/bin/i3dragandstatic/i3/src/click.c",
+				"/home/deepak/bin/polybar_autohide/polybar_autohide.cpp",
+				"/home/deepak/.config/polybar/forest/modules.ini",
+				"/home/deepak/.config/polybar/forest/config.ini",
+				"/home/deepak/bin/polybarhide.sh",
+				"/home/deepak/bin/i3dragandstatic/PKGBUILD",
+				"/home/deepak/bin/i3dragandstatic/i3/src/workspace.c",
+				"/home/deepak/bin/i3dragandstatic/static.patch",
+				"/home/deepak/.config/skippy-xd/skippy-xd.rc",
+				"/home/deepak/.local/bin/i3l",
+				"/home/deepak/.local/bin/i3-layouts",
+				"/home/deepak/bin/i3drag/i3.PKGBUILD",
+				"/home/deepak/bin/i3drag/PKGBUILD",
+				"/home/deepak/.config/gtk-3.0/gtk.css",
+				"/home/deepak/Privacy and securit.txt",
+				"/home/deepak/p",
+				"/home/deepak/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/deepak/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/home/deepak/.local/share/gnome-shell/extensions/pop-shell@system76.com/stack.js",
+				"/home/deepak/.local/share/gnome-shell/extensions/pop-shell@system76.com/light.css",
+				"/home/deepak/.local/share/gnome-shell/extensions/pop-shell@system76.com/config.js",
+				"/home/deepak/.local/share/gnome-shell/extensions/pop-shell@system76.com/dark.css",
+				"/home/deepak/polybarhide.sh",
+				"/home/deepak/.config/polybar/forest/scripts/rofi/styles.rasi",
+				"/home/deepak/.config/polybar/forest/scripts/rofi/powermenu.rasi",
+				"/home/deepak/.config/polybar/forest/bars.ini",
+				"/etc/X11/xorg.conf.d/10-intel.conf",
+				"/home/deepak/.config/polybar/forest/scripts/updates.sh",
+				"/home/deepak/.config/polybar/forest/user_modules.ini",
+				"/home/deepak/.config/polybar/forest/scripts/rofi/networkmenu.rasi",
+				"/home/deepak/.config/networkmanager-dmenu/config.ini",
+				"/home/deepak/.config/polybar/forest/launch.sh",
+				"/home/deepak/bin/.config/i3/config",
+				"/home/deepak/.local/bin/i3expod.py",
+				"/home/deepak/bin/i3expo-ng/.config/i3/config",
+				"/home/deepak/.config/rofi/launchers/misc/row_dock.rasi",
+				"/home/deepak/.config/rofi/launchers/misc/launcher.sh",
+				"/home/deepak/.config/rofi/launchers/misc/column.rasi",
+				"/home/deepak/.config/rofi/config.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/.config/rofi/config.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/launcher.sh",
+				"/home/deepak/.config/rofi/launchers/colorful/style_11.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/style_8.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/style_9.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/style_12.rasi",
+				"/home/deepak/.config/rofi/launchers/colorful/style_10.rasi",
+				"/home/deepak/.config/rofi/launchers/misc/launchpad.rasi",
+				"/home/deepak/.config/rofi/launchers/misc/appdrawer.rasi",
+				"/home/deepak/.config/rofi/launchers/ribbon/ribbon_left_round.rasi",
+				"/home/deepak/.config/rofi/launchers/ribbon/launcher.sh",
+				"/home/deepak/.config/rofi/launchers/ribbon/styles/colors.rasi",
+				"/home/deepak/.config/rofi/launchers/ribbon/styles/colors",
+				"/home/deepak/.config/rofi/launchers/ribbon/styles/colors.",
+				"/home/deepak/.config/rofi/bin/.config/rofi/config.rasi",
+				"/home/deepak/.config/sublime-text/Packages/User/Plain text.sublime-settings",
+				"/home/deepak/.config/fish/config.fish",
+				"/home/deepak/.profile",
+				"/home/deepak/Downloads/f.txt",
+				"/home/deepak/.ssh/id_ed25519.pub",
+				"/home/deepak/sunkumar/fileInput.txt",
+				"/home/deepak/CNDSA/assign/revstreql.cpp",
+				"/home/deepak/CNDSA/assign/test",
+				"/home/deepak/CNDSA/assign/twoarray.cpp",
+				"/home/deepak/CNDSA/tree/test",
+				"/home/deepak/CNDSA/tree/tree.cpp",
+				"/home/deepak/CNDSA/assign/split_ll.c",
+				"/home/deepak/CNDSA/assign/balpar.c",
+				"/home/deepak/CNDSA/assign/pas.cpp",
+				"/home/deepak/.config/i3blocks/config",
+				"/home/deepak/.config/i3status/config",
+				"/home/deepak/Downloads/biblography.bib",
+				"/home/deepak/Downloads/main.tex",
+				"/home/deepak/CNDSA/stack_q/test",
+				"/home/deepak/CNDSA/stack_q/stock_span.cpp",
+				"/home/deepak/CNDSA/stack_q/nxtgrttoleft_idx.cpp",
+				"/home/deepak/CNDSA/stack_q/nxtgrttoleft.cpp",
+				"/home/deepak/CNDSA/stack_q/help.cpp",
+				"/home/deepak/.config/feh/buttons",
+				"/home/deepak/CNDSA/stack_q/h.cpp",
+				"/home/deepak/CNDSA/stack_q/redun_para.cpp",
+				"/home/deepak/CNDSA/stack_q/rev_queue.cpp",
+				"/home/deepak/CNDSA/stack_q/reverseStack.cpp",
+				"/home/deepak/CNDSA/stack_q/para.cpp",
+				"/home/deepak/CNDSA/linkedlist/test",
+				"/home/deepak/CNDSA/stack_q/stack.cpp",
+				"/home/deepak/stack.cpp",
+				"/home/deepak/CNDSA/linkedlist/lengthofll.cpp",
+				"/home/deepak/Downloads/xml/file.html",
+				"/home/deepak/Downloads/xml/q1.xml",
+				"/home/deepak/Downloads/xml/q2.js",
+				"/home/deepak/Downloads/a6q3.java",
+				"/home/deepak/CNDSA/Recursion/test",
+				"/home/deepak/CNDSA/linked list/lengthofll.cpp",
+				"/home/deepak/CNDSA/linked list/Node.cpp",
+				"/home/deepak/CNDSA/linked list/test",
+				"/home/deepak/.config/mpv/mpv.conf",
+				"/home/deepak/CNDSA/Recursion/split.cpp",
+				"/home/deepak/CNDSA/Recursion/maxprofit.cpp",
+				"/home/deepak/CNDSA/Recursion/rotatearray.cpp",
+				"/home/deepak/CNDSA/Recursion/triplesum.cpp",
+				"/home/deepak/CNDSA/Recursion/pairsum.cpp",
+				"/home/deepak/CNDSA/Recursion/pairstar.cpp",
+				"/home/deepak/CNDSA/Recursion/array_intersection.cpp",
+				"/home/deepak/CNDSA/Recursion/dup.cpp",
+				"/home/deepak/CNDSA/duplicate_array.cpp",
+				"/home/deepak/CNDSA/Recursion/unq.cpp",
+				"/home/deepak/CNDSA/unq.cpp",
+				"/home/deepak/CNDSA/Recursion/keypad.cpp",
+				"/home/deepak/CNDSA/Recursion/codes_string.cpp",
+				"/home/deepak/CNDSA/Recursion/print_subset_sum.cpp",
+				"/home/deepak/CNDSA/Recursion/sub_array_sum.cpp",
+				"/home/deepak/CNDSA/Recursion/subset_array.cpp",
+				"/home/deepak/CNDSA/Recursion/print_subset_array.cpp",
+				"/home/deepak/CNDSA/Recursion/printkeypad.cpp",
+				"/home/deepak/print_subset_array.cpp",
+				"/home/deepak/CNDSA/Recursion/binarysearch.cpp",
+				"/home/deepak/CNDSA/Recursion/staircase.cpp",
+				"/home/deepak/CNDSA/Recursion/checkab.cpp",
+				"/home/deepak/CNDSA/Recursion/quicksort.cpp",
+				"/home/deepak/CNDSA/Recursion/mergesort.cpp",
+				"/home/deepak/.config/i3blocks/bin/rofi-calendar",
+				"/home/deepak/.config/i3blocks/bin/calender",
+				"/home/deepak/.config/i3blocks/bin/gcalcli",
+				"/home/deepak/.conkyrc",
+				"/home/deepak/bin/gcal.sh",
+				"/home/deepak/dwm-flexipatch/patches.def.h"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/deepak/bin"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 180.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Custom.sublime-build",
+			"position": "0,0,0,0,0,683,4,1362,766,1366,768,0",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"tes",
+						"assign/test"
+					],
+					[
+						"test",
+						"assign/test"
+					],
+					[
+						"",
+						"tree/tree.cpp"
+					],
+					[
+						"stock",
+						"stack_q/stock_span.cpp"
+					],
+					[
+						"te",
+						"stack_q/test"
+					],
+					[
+						"para",
+						"stack_q/para.cpp"
+					],
+					[
+						"t",
+						"linkedlist/test"
+					],
+					[
+						"le",
+						"linkedlist/lengthofll.cpp"
+					],
+					[
+						"max",
+						"Recursion/maxprofit.cpp"
+					],
+					[
+						"trip",
+						"Recursion/triplesum.cpp"
+					],
+					[
+						"pai",
+						"Recursion/pairsum.cpp"
+					],
+					[
+						"arr",
+						"Recursion/array_intersection.cpp"
+					],
+					[
+						"key",
+						"keypad.cpp"
+					],
+					[
+						"cod",
+						"codes_string.cpp"
+					],
+					[
+						"ke",
+						"keypad.cpp"
+					],
+					[
+						"strin",
+						"codes_string.cpp"
+					],
+					[
+						"subs",
+						"sub_array_sum.cpp"
+					],
+					[
+						"sub",
+						"sub_array_sum.cpp"
+					],
+					[
+						"s",
+						"subset_array.cpp"
+					],
+					[
+						"arra",
+						"subset_array.cpp"
+					],
+					[
+						"pri",
+						"print_subset_array.cpp"
+					],
+					[
+						"sy",
+						"subset_array.cpp"
+					],
+					[
+						"prin",
+						"printkeypad.cpp"
+					],
+					[
+						"p",
+						"printkeypad.cpp"
+					],
+					[
+						"qui",
+						"quicksort.cpp"
+					],
+					[
+						"me",
+						"mergesort.cpp"
+					],
+					[
+						"dwm",
+						"dwm.c"
+					],
+					[
+						"mov",
+						"dwm-movestack-6.1.diff"
+					],
+					[
+						"dif",
+						"dwm-restartsig-20180523-6.2.diff"
+					],
+					[
+						"ts",
+						"Recursion/test"
+					],
+					[
+						"pi",
+						"Recursion/Replace_pi.cpp"
+					],
+					[
+						"re",
+						"Recursion/Replace_pi.cpp"
+					],
+					[
+						"tet",
+						"Recursion/test"
+					],
+					[
+						"la",
+						"Recursion/last_index.cpp"
+					],
+					[
+						"f",
+						"Recursion/first_index.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 154.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 50,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/deepak/Downloads/ASS2/a.sublime-workspace"
+		]
+	}
+}
